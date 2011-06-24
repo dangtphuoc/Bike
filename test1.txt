@@ -4,4 +4,4 @@ mybranch
 mybranch_modifed
 mybranch
 test1
-mybranch: added, modified, modified1
+mybranch: added, modified, modified1, modified2
